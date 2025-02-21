@@ -1,22 +1,7 @@
 ## WhatsApp Bot AI - Baileys
 
 ## Fitur
-* OpenAI
-* Total Features
-* Whoami
-* Text
-* Temporary Msg [text, milliseconds]
-* Image
-* Video
-* Gif
-* Audio
-* Vn
-* Document
-* Location
-* Contact
-* Reaction
-* Owner Menu
-* Owner Number
+* ChatGPT-4
 * Self Mode
 * Public Mode
 
