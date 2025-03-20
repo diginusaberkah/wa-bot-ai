@@ -37,7 +37,7 @@ pkg install yarn
 
 ### Download/Klon Proyek
 ```bash
-git clone https://github.com/dani-techno/wa-bot-ai.git
+git clone https://github.com/diginusaberkah/wa-bot-ai.git
 ```
 
 ### Pindah Direktori (CD)
