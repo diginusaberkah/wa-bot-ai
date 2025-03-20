@@ -45,12 +45,12 @@ module.exports = {
   automatic_read_messages: true,
   automatic_update_profile_status: [false, "Status"],
   automatic_typing_or_recording: [true, "typing"], // typing/recording
-  owner_number: '6282320667363',
-  owner_name: 'Dani Joestar.',
-  bot_name: 'Wotty Bot',
+  owner_number: '6285885198417',
+  owner_name: 'Syarif Hidayat.',
+  bot_name: 'Layanan Pelanggan',
   api: {
     base_url: 'https://forestapi.web.id',
-    secret_key: 'sk-jxtk1ftx0470s4'
+    secret_key: sk-x4D5WouaC8t7an'
   },
   reactions: {
     process: '⏳',
